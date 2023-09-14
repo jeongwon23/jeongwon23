@@ -1,4 +1,4 @@
-### Hi there 👋
+### Jeongwon Park
 
 <!--
 **jeongwon23/jeongwon23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
